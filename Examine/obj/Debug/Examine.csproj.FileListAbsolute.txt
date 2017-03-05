@@ -1,0 +1,14 @@
+D:\_Projects\Examine\Examine\bin\Debug\Examine.exe.config
+D:\_Projects\Examine\Examine\bin\Debug\Examine.exe
+D:\_Projects\Examine\Examine\bin\Debug\Examine.pdb
+D:\_Projects\Examine\Examine\obj\Debug\Examine.csprojResolveAssemblyReference.cache
+D:\_Projects\Examine\Examine\obj\Debug\MainWindow.g.cs
+D:\_Projects\Examine\Examine\obj\Debug\App.g.cs
+D:\_Projects\Examine\Examine\obj\Debug\Examine_MarkupCompile.cache
+D:\_Projects\Examine\Examine\obj\Debug\Examine_MarkupCompile.lref
+D:\_Projects\Examine\Examine\obj\Debug\MainWindow.baml
+D:\_Projects\Examine\Examine\obj\Debug\Examine.g.resources
+D:\_Projects\Examine\Examine\obj\Debug\Examine.Properties.Resources.resources
+D:\_Projects\Examine\Examine\obj\Debug\Examine.csproj.GenerateResource.Cache
+D:\_Projects\Examine\Examine\obj\Debug\Examine.exe
+D:\_Projects\Examine\Examine\obj\Debug\Examine.pdb
